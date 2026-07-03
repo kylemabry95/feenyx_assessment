@@ -1,0 +1,3062 @@
+{
+ "api_version": "2.3",
+ "generated_at": "2026-06-30T12:00:00Z",
+ "results": [
+  {
+   "work_order": {
+    "id": "WO-5000",
+    "asset": {
+     "id": "AST-0020",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-05-06T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-459",
+     "qty": 5,
+     "unit_cost": 234.58
+    },
+    {
+     "sku": "P-598",
+     "qty": 3,
+     "unit_cost": 330.4
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5001",
+    "asset": {
+     "id": "AST-0001",
+     "facility": "CAPE-A"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-03-27T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-893",
+     "qty": 6,
+     "unit_cost": 771.83
+    },
+    {
+     "sku": "P-963",
+     "qty": 5,
+     "unit_cost": 437.98
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5002",
+    "asset": {
+     "id": "AST-0018",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-02-07T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-976",
+     "qty": 2,
+     "unit_cost": 594.79
+    },
+    {
+     "sku": "P-245",
+     "qty": 3,
+     "unit_cost": 450.06
+    },
+    {
+     "sku": "P-350",
+     "qty": 5,
+     "unit_cost": 667.95
+    },
+    {
+     "sku": "P-541",
+     "qty": 3,
+     "unit_cost": 188.85
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5003",
+    "asset": {
+     "id": "AST-0006",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-06-13T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-380",
+     "qty": 6,
+     "unit_cost": 612.21
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5004",
+    "asset": {
+     "id": "AST-0029",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-03-09T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-457",
+     "qty": 3,
+     "unit_cost": 354.36
+    },
+    {
+     "sku": "P-527",
+     "qty": 3,
+     "unit_cost": 281.15
+    },
+    {
+     "sku": "P-142",
+     "qty": 5,
+     "unit_cost": 469.99
+    },
+    {
+     "sku": "P-451",
+     "qty": 5,
+     "unit_cost": 114.17
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5005",
+    "asset": {
+     "id": "AST-0030",
+     "facility": "JSC-LAB"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-03-15T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-108",
+     "qty": 4,
+     "unit_cost": 834.8
+    },
+    {
+     "sku": "P-250",
+     "qty": 4,
+     "unit_cost": 614.11
+    },
+    {
+     "sku": "P-635",
+     "qty": 3,
+     "unit_cost": 562.92
+    },
+    {
+     "sku": "P-780",
+     "qty": 2,
+     "unit_cost": 276.07
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5006",
+    "asset": {
+     "id": "AST-0019",
+     "facility": "VANDEN-1"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-01-04T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5007",
+    "asset": {
+     "id": "AST-0003",
+     "facility": "WALLOPS"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-06-01T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-154",
+     "qty": 4,
+     "unit_cost": 278.02
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5008",
+    "asset": {
+     "id": "AST-0028",
+     "facility": "JSC-LAB"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-01-13T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-241",
+     "qty": 3,
+     "unit_cost": 791.33
+    },
+    {
+     "sku": "P-904",
+     "qty": 5,
+     "unit_cost": 600.13
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5009",
+    "asset": {
+     "id": "AST-0036",
+     "facility": "CAPE-A"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-11T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-850",
+     "qty": 2,
+     "unit_cost": 391.12
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5010",
+    "asset": {
+     "id": "AST-0006",
+     "facility": "VANDEN-1"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-01-09T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-463",
+     "qty": 2,
+     "unit_cost": 731.29
+    },
+    {
+     "sku": "P-752",
+     "qty": 4,
+     "unit_cost": 382.62
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5011",
+    "asset": {
+     "id": "AST-0007",
+     "facility": "VANDEN-1"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-06-02T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-277",
+     "qty": 5,
+     "unit_cost": 394.49
+    },
+    {
+     "sku": "P-996",
+     "qty": 3,
+     "unit_cost": 724.72
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5012",
+    "asset": {
+     "id": "AST-0009",
+     "facility": "VANDEN-1"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-02-04T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-667",
+     "qty": 2,
+     "unit_cost": 273.75
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5013",
+    "asset": {
+     "id": "AST-0006",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-05-20T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-484",
+     "qty": 4,
+     "unit_cost": 90.05
+    },
+    {
+     "sku": "P-639",
+     "qty": 4,
+     "unit_cost": 625.94
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5014",
+    "asset": {
+     "id": "AST-0033",
+     "facility": "CAPE-A"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-04-01T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-577",
+     "qty": 4,
+     "unit_cost": 865.46
+    },
+    {
+     "sku": "P-572",
+     "qty": 1,
+     "unit_cost": 821.65
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5015",
+    "asset": {
+     "id": "AST-0002",
+     "facility": "CAPE-B"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-02-05T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-409",
+     "qty": 2,
+     "unit_cost": 523.97
+    },
+    {
+     "sku": "P-482",
+     "qty": 2,
+     "unit_cost": 560.32
+    },
+    {
+     "sku": "P-679",
+     "qty": 3,
+     "unit_cost": 51.97
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5016",
+    "asset": {
+     "id": "AST-0026",
+     "facility": "CAPE-A"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-06-21T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-573",
+     "qty": 5,
+     "unit_cost": 416.36
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5017",
+    "asset": {
+     "id": "AST-0004",
+     "facility": "CAPE-B"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-11T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5018",
+    "asset": {
+     "id": "AST-0007",
+     "facility": "VANDEN-1"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-16T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-593",
+     "qty": 6,
+     "unit_cost": 300.85
+    },
+    {
+     "sku": "P-162",
+     "qty": 1,
+     "unit_cost": 667.46
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5019",
+    "asset": {
+     "id": "AST-0033",
+     "facility": "CAPE-A"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-05-13T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5020",
+    "asset": {
+     "id": "AST-0036",
+     "facility": "CAPE-A"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-02-27T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-755",
+     "qty": 2,
+     "unit_cost": 273.6
+    },
+    {
+     "sku": "P-418",
+     "qty": 6,
+     "unit_cost": 890.29
+    },
+    {
+     "sku": "P-106",
+     "qty": 4,
+     "unit_cost": 562.8
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5021",
+    "asset": {
+     "id": "AST-0013",
+     "facility": "CAPE-A"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-01-01T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5022",
+    "asset": {
+     "id": "AST-0039",
+     "facility": "CAPE-B"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-05T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5023",
+    "asset": {
+     "id": "AST-0007",
+     "facility": "VANDEN-1"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-05-10T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-500",
+     "qty": 1,
+     "unit_cost": 833.74
+    },
+    {
+     "sku": "P-407",
+     "qty": 4,
+     "unit_cost": 437.41
+    },
+    {
+     "sku": "P-288",
+     "qty": 2,
+     "unit_cost": 758.18
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5024",
+    "asset": {
+     "id": "AST-0035",
+     "facility": "JSC-LAB"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-06-18T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-226",
+     "qty": 4,
+     "unit_cost": 135.04
+    },
+    {
+     "sku": "P-122",
+     "qty": 2,
+     "unit_cost": 130.95
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5025",
+    "asset": {
+     "id": "AST-0016",
+     "facility": "CAPE-B"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-05-02T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-396",
+     "qty": 3,
+     "unit_cost": 602.11
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5026",
+    "asset": {
+     "id": "AST-0038",
+     "facility": "WALLOPS"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-06-20T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-500",
+     "qty": 4,
+     "unit_cost": 629.1
+    },
+    {
+     "sku": "P-209",
+     "qty": 4,
+     "unit_cost": 377.54
+    },
+    {
+     "sku": "P-535",
+     "qty": 2,
+     "unit_cost": 29.06
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5027",
+    "asset": {
+     "id": "AST-0030",
+     "facility": "JSC-LAB"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-01-03T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5028",
+    "asset": {
+     "id": "AST-0020",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-01-11T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5029",
+    "asset": {
+     "id": "AST-0009",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-03-12T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-262",
+     "qty": 3,
+     "unit_cost": 452.57
+    },
+    {
+     "sku": "P-981",
+     "qty": 5,
+     "unit_cost": 192.86
+    },
+    {
+     "sku": "P-823",
+     "qty": 5,
+     "unit_cost": 354.0
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5030",
+    "asset": {
+     "id": "AST-0005",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-04-01T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-836",
+     "qty": 5,
+     "unit_cost": 308.0
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5031",
+    "asset": {
+     "id": "AST-0009",
+     "facility": "VANDEN-1"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-04-11T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-959",
+     "qty": 6,
+     "unit_cost": 437.44
+    },
+    {
+     "sku": "P-583",
+     "qty": 5,
+     "unit_cost": 594.44
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5032",
+    "asset": {
+     "id": "AST-0037",
+     "facility": "CAPE-B"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-02-03T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-431",
+     "qty": 5,
+     "unit_cost": 859.85
+    },
+    {
+     "sku": "P-456",
+     "qty": 5,
+     "unit_cost": 557.26
+    },
+    {
+     "sku": "P-513",
+     "qty": 1,
+     "unit_cost": 44.26
+    },
+    {
+     "sku": "P-972",
+     "qty": 6,
+     "unit_cost": 146.62
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5033",
+    "asset": {
+     "id": "AST-0007",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-06-23T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5034",
+    "asset": {
+     "id": "AST-0021",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-01-27T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-845",
+     "qty": 4,
+     "unit_cost": 681.21
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5035",
+    "asset": {
+     "id": "AST-0027",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-06-06T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5036",
+    "asset": {
+     "id": "AST-0008",
+     "facility": "VANDEN-1"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-04-24T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5037",
+    "asset": {
+     "id": "AST-0039",
+     "facility": "CAPE-B"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-03-24T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5038",
+    "asset": {
+     "id": "AST-0029",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-06-13T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-669",
+     "qty": 2,
+     "unit_cost": 179.36
+    },
+    {
+     "sku": "P-602",
+     "qty": 4,
+     "unit_cost": 612.25
+    },
+    {
+     "sku": "P-330",
+     "qty": 2,
+     "unit_cost": 668.97
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5039",
+    "asset": {
+     "id": "AST-0028",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-01-23T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-124",
+     "qty": 6,
+     "unit_cost": 864.01
+    },
+    {
+     "sku": "P-198",
+     "qty": 2,
+     "unit_cost": 33.78
+    },
+    {
+     "sku": "P-243",
+     "qty": 1,
+     "unit_cost": 326.17
+    },
+    {
+     "sku": "P-517",
+     "qty": 5,
+     "unit_cost": 493.74
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5040",
+    "asset": {
+     "id": "AST-0005",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-06-24T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-845",
+     "qty": 6,
+     "unit_cost": 477.23
+    },
+    {
+     "sku": "P-294",
+     "qty": 2,
+     "unit_cost": 515.05
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5041",
+    "asset": {
+     "id": "AST-0031",
+     "facility": "WALLOPS"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-04-02T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-672",
+     "qty": 2,
+     "unit_cost": 722.23
+    },
+    {
+     "sku": "P-549",
+     "qty": 4,
+     "unit_cost": 564.42
+    },
+    {
+     "sku": "P-994",
+     "qty": 1,
+     "unit_cost": 513.96
+    },
+    {
+     "sku": "P-230",
+     "qty": 5,
+     "unit_cost": 271.21
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5042",
+    "asset": {
+     "id": "AST-0008",
+     "facility": "VANDEN-1"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-01-14T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-653",
+     "qty": 3,
+     "unit_cost": 24.2
+    },
+    {
+     "sku": "P-941",
+     "qty": 3,
+     "unit_cost": 830.36
+    },
+    {
+     "sku": "P-357",
+     "qty": 4,
+     "unit_cost": 634.13
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5043",
+    "asset": {
+     "id": "AST-0005",
+     "facility": "JSC-LAB"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-01-20T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-689",
+     "qty": 2,
+     "unit_cost": 768.46
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5044",
+    "asset": {
+     "id": "AST-0040",
+     "facility": "JSC-LAB"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-04-13T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-158",
+     "qty": 5,
+     "unit_cost": 628.98
+    },
+    {
+     "sku": "P-213",
+     "qty": 5,
+     "unit_cost": 426.0
+    },
+    {
+     "sku": "P-369",
+     "qty": 6,
+     "unit_cost": 30.86
+    },
+    {
+     "sku": "P-446",
+     "qty": 4,
+     "unit_cost": 237.75
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5045",
+    "asset": {
+     "id": "AST-0022",
+     "facility": "WALLOPS"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-02-22T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5046",
+    "asset": {
+     "id": "AST-0022",
+     "facility": "WALLOPS"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-05-07T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5047",
+    "asset": {
+     "id": "AST-0037",
+     "facility": "CAPE-B"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-30T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-526",
+     "qty": 5,
+     "unit_cost": 666.4
+    },
+    {
+     "sku": "P-182",
+     "qty": 5,
+     "unit_cost": 432.98
+    },
+    {
+     "sku": "P-232",
+     "qty": 3,
+     "unit_cost": 652.1
+    },
+    {
+     "sku": "P-206",
+     "qty": 1,
+     "unit_cost": 448.95
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5048",
+    "asset": {
+     "id": "AST-0015",
+     "facility": "WALLOPS"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-05-03T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-900",
+     "qty": 2,
+     "unit_cost": 23.21
+    },
+    {
+     "sku": "P-156",
+     "qty": 1,
+     "unit_cost": 697.16
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5049",
+    "asset": {
+     "id": "AST-0013",
+     "facility": "CAPE-A"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-06-24T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-855",
+     "qty": 1,
+     "unit_cost": 499.04
+    },
+    {
+     "sku": "P-153",
+     "qty": 4,
+     "unit_cost": 690.05
+    },
+    {
+     "sku": "P-812",
+     "qty": 2,
+     "unit_cost": 389.03
+    },
+    {
+     "sku": "P-537",
+     "qty": 5,
+     "unit_cost": 127.44
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5050",
+    "asset": {
+     "id": "AST-0029",
+     "facility": "JSC-LAB"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-04-01T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5051",
+    "asset": {
+     "id": "AST-0022",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-02T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-194",
+     "qty": 5,
+     "unit_cost": 13.0
+    },
+    {
+     "sku": "P-522",
+     "qty": 6,
+     "unit_cost": 678.3
+    },
+    {
+     "sku": "P-927",
+     "qty": 5,
+     "unit_cost": 512.97
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5052",
+    "asset": {
+     "id": "AST-0001",
+     "facility": "CAPE-A"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-01-20T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-229",
+     "qty": 4,
+     "unit_cost": 165.81
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5053",
+    "asset": {
+     "id": "AST-0003",
+     "facility": "WALLOPS"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-06-04T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-350",
+     "qty": 3,
+     "unit_cost": 120.23
+    },
+    {
+     "sku": "P-507",
+     "qty": 4,
+     "unit_cost": 593.19
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5054",
+    "asset": {
+     "id": "AST-0005",
+     "facility": "JSC-LAB"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-05-20T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5055",
+    "asset": {
+     "id": "AST-0032",
+     "facility": "VANDEN-1"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-04-24T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-409",
+     "qty": 3,
+     "unit_cost": 703.07
+    },
+    {
+     "sku": "P-399",
+     "qty": 6,
+     "unit_cost": 222.81
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5056",
+    "asset": {
+     "id": "AST-0018",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-01-14T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-520",
+     "qty": 6,
+     "unit_cost": 855.7
+    },
+    {
+     "sku": "P-597",
+     "qty": 3,
+     "unit_cost": 74.29
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5057",
+    "asset": {
+     "id": "AST-0009",
+     "facility": "VANDEN-1"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-03-20T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-666",
+     "qty": 2,
+     "unit_cost": 113.98
+    },
+    {
+     "sku": "P-842",
+     "qty": 2,
+     "unit_cost": 36.14
+    },
+    {
+     "sku": "P-340",
+     "qty": 6,
+     "unit_cost": 398.49
+    },
+    {
+     "sku": "P-882",
+     "qty": 4,
+     "unit_cost": 857.93
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5058",
+    "asset": {
+     "id": "AST-0002",
+     "facility": "CAPE-B"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-11T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-702",
+     "qty": 4,
+     "unit_cost": 273.17
+    },
+    {
+     "sku": "P-186",
+     "qty": 1,
+     "unit_cost": 254.07
+    },
+    {
+     "sku": "P-724",
+     "qty": 4,
+     "unit_cost": 447.84
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5059",
+    "asset": {
+     "id": "AST-0025",
+     "facility": "CAPE-B"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-01-12T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-310",
+     "qty": 4,
+     "unit_cost": 169.25
+    },
+    {
+     "sku": "P-541",
+     "qty": 5,
+     "unit_cost": 50.82
+    },
+    {
+     "sku": "P-412",
+     "qty": 1,
+     "unit_cost": 489.23
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5060",
+    "asset": {
+     "id": "AST-0023",
+     "facility": "CAPE-B"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-03-09T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5061",
+    "asset": {
+     "id": "AST-0014",
+     "facility": "CAPE-A"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-06-09T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5062",
+    "asset": {
+     "id": "AST-0028",
+     "facility": "JSC-LAB"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-05-22T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5063",
+    "asset": {
+     "id": "AST-0019",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-04-19T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-836",
+     "qty": 5,
+     "unit_cost": 693.04
+    },
+    {
+     "sku": "P-366",
+     "qty": 2,
+     "unit_cost": 864.43
+    },
+    {
+     "sku": "P-578",
+     "qty": 6,
+     "unit_cost": 893.38
+    },
+    {
+     "sku": "P-343",
+     "qty": 2,
+     "unit_cost": 817.31
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5064",
+    "asset": {
+     "id": "AST-0018",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-05T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-402",
+     "qty": 3,
+     "unit_cost": 515.69
+    },
+    {
+     "sku": "P-139",
+     "qty": 5,
+     "unit_cost": 249.75
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5065",
+    "asset": {
+     "id": "AST-0018",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-02-01T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-682",
+     "qty": 6,
+     "unit_cost": 291.61
+    },
+    {
+     "sku": "P-370",
+     "qty": 2,
+     "unit_cost": 401.65
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5066",
+    "asset": {
+     "id": "AST-0002",
+     "facility": "CAPE-B"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-04-30T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-467",
+     "qty": 4,
+     "unit_cost": 575.42
+    },
+    {
+     "sku": "P-669",
+     "qty": 2,
+     "unit_cost": 370.12
+    },
+    {
+     "sku": "P-693",
+     "qty": 1,
+     "unit_cost": 251.7
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5067",
+    "asset": {
+     "id": "AST-0040",
+     "facility": "JSC-LAB"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-01-17T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-284",
+     "qty": 3,
+     "unit_cost": 690.32
+    },
+    {
+     "sku": "P-382",
+     "qty": 3,
+     "unit_cost": 782.67
+    },
+    {
+     "sku": "P-230",
+     "qty": 2,
+     "unit_cost": 568.78
+    },
+    {
+     "sku": "P-250",
+     "qty": 5,
+     "unit_cost": 591.76
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5068",
+    "asset": {
+     "id": "AST-0015",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-02-17T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5069",
+    "asset": {
+     "id": "AST-0033",
+     "facility": "CAPE-A"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-01-11T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-834",
+     "qty": 2,
+     "unit_cost": 58.49
+    },
+    {
+     "sku": "P-831",
+     "qty": 3,
+     "unit_cost": 877.85
+    },
+    {
+     "sku": "P-116",
+     "qty": 6,
+     "unit_cost": 761.06
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5070",
+    "asset": {
+     "id": "AST-0023",
+     "facility": "CAPE-B"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-06-03T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-458",
+     "qty": 1,
+     "unit_cost": 73.42
+    },
+    {
+     "sku": "P-554",
+     "qty": 1,
+     "unit_cost": 461.89
+    },
+    {
+     "sku": "P-342",
+     "qty": 2,
+     "unit_cost": 295.91
+    },
+    {
+     "sku": "P-480",
+     "qty": 6,
+     "unit_cost": 376.71
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5071",
+    "asset": {
+     "id": "AST-0028",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-01-07T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-721",
+     "qty": 3,
+     "unit_cost": 304.15
+    },
+    {
+     "sku": "P-517",
+     "qty": 6,
+     "unit_cost": 339.75
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5072",
+    "asset": {
+     "id": "AST-0019",
+     "facility": "VANDEN-1"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-02-11T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-145",
+     "qty": 3,
+     "unit_cost": 837.56
+    },
+    {
+     "sku": "P-705",
+     "qty": 1,
+     "unit_cost": 99.18
+    },
+    {
+     "sku": "P-316",
+     "qty": 3,
+     "unit_cost": 461.67
+    },
+    {
+     "sku": "P-899",
+     "qty": 6,
+     "unit_cost": 459.33
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5073",
+    "asset": {
+     "id": "AST-0038",
+     "facility": "WALLOPS"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-04-07T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-133",
+     "qty": 6,
+     "unit_cost": 654.73
+    },
+    {
+     "sku": "P-490",
+     "qty": 6,
+     "unit_cost": 74.29
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5074",
+    "asset": {
+     "id": "AST-0005",
+     "facility": "JSC-LAB"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-05-18T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-224",
+     "qty": 5,
+     "unit_cost": 719.19
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5075",
+    "asset": {
+     "id": "AST-0039",
+     "facility": "CAPE-B"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-03-23T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-299",
+     "qty": 5,
+     "unit_cost": 266.59
+    },
+    {
+     "sku": "P-349",
+     "qty": 3,
+     "unit_cost": 221.79
+    },
+    {
+     "sku": "P-886",
+     "qty": 3,
+     "unit_cost": 210.88
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5076",
+    "asset": {
+     "id": "AST-0021",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-04-24T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5077",
+    "asset": {
+     "id": "AST-0027",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-04-01T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-617",
+     "qty": 1,
+     "unit_cost": 823.51
+    },
+    {
+     "sku": "P-769",
+     "qty": 4,
+     "unit_cost": 546.28
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5078",
+    "asset": {
+     "id": "AST-0029",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-05-26T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-650",
+     "qty": 2,
+     "unit_cost": 699.7
+    },
+    {
+     "sku": "P-517",
+     "qty": 6,
+     "unit_cost": 527.94
+    },
+    {
+     "sku": "P-241",
+     "qty": 5,
+     "unit_cost": 237.21
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5079",
+    "asset": {
+     "id": "AST-0019",
+     "facility": "VANDEN-1"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-01-31T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-518",
+     "qty": 4,
+     "unit_cost": 456.5
+    },
+    {
+     "sku": "P-251",
+     "qty": 5,
+     "unit_cost": 446.8
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5080",
+    "asset": {
+     "id": "AST-0013",
+     "facility": "CAPE-A"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-01-04T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-223",
+     "qty": 4,
+     "unit_cost": 239.99
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5081",
+    "asset": {
+     "id": "AST-0036",
+     "facility": "CAPE-A"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-02-02T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-953",
+     "qty": 4,
+     "unit_cost": 25.44
+    },
+    {
+     "sku": "P-270",
+     "qty": 1,
+     "unit_cost": 122.61
+    },
+    {
+     "sku": "P-987",
+     "qty": 5,
+     "unit_cost": 827.09
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5082",
+    "asset": {
+     "id": "AST-0028",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-04-13T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-670",
+     "qty": 2,
+     "unit_cost": 641.94
+    },
+    {
+     "sku": "P-221",
+     "qty": 3,
+     "unit_cost": 808.09
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5083",
+    "asset": {
+     "id": "AST-0022",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-01-12T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-856",
+     "qty": 3,
+     "unit_cost": 855.13
+    },
+    {
+     "sku": "P-518",
+     "qty": 6,
+     "unit_cost": 406.98
+    },
+    {
+     "sku": "P-954",
+     "qty": 4,
+     "unit_cost": 263.2
+    },
+    {
+     "sku": "P-588",
+     "qty": 6,
+     "unit_cost": 124.61
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5084",
+    "asset": {
+     "id": "AST-0012",
+     "facility": "JSC-LAB"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-02-08T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-707",
+     "qty": 5,
+     "unit_cost": 335.41
+    },
+    {
+     "sku": "P-764",
+     "qty": 4,
+     "unit_cost": 343.92
+    },
+    {
+     "sku": "P-549",
+     "qty": 2,
+     "unit_cost": 459.77
+    },
+    {
+     "sku": "P-702",
+     "qty": 3,
+     "unit_cost": 850.51
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5085",
+    "asset": {
+     "id": "AST-0007",
+     "facility": "VANDEN-1"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-05-07T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-149",
+     "qty": 5,
+     "unit_cost": 467.84
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5086",
+    "asset": {
+     "id": "AST-0034",
+     "facility": "CAPE-B"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-03-15T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-493",
+     "qty": 3,
+     "unit_cost": 682.54
+    },
+    {
+     "sku": "P-246",
+     "qty": 1,
+     "unit_cost": 733.33
+    },
+    {
+     "sku": "P-852",
+     "qty": 6,
+     "unit_cost": 192.77
+    },
+    {
+     "sku": "P-631",
+     "qty": 3,
+     "unit_cost": 519.32
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5087",
+    "asset": {
+     "id": "AST-0040",
+     "facility": "JSC-LAB"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-30T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-269",
+     "qty": 1,
+     "unit_cost": 261.91
+    },
+    {
+     "sku": "P-598",
+     "qty": 4,
+     "unit_cost": 204.38
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5088",
+    "asset": {
+     "id": "AST-0011",
+     "facility": "WALLOPS"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-06-05T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-337",
+     "qty": 6,
+     "unit_cost": 253.65
+    },
+    {
+     "sku": "P-198",
+     "qty": 2,
+     "unit_cost": 498.74
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5089",
+    "asset": {
+     "id": "AST-0033",
+     "facility": "CAPE-A"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-06-03T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-652",
+     "qty": 5,
+     "unit_cost": 719.9
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5090",
+    "asset": {
+     "id": "AST-0001",
+     "facility": "CAPE-A"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-04-05T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-388",
+     "qty": 5,
+     "unit_cost": 386.15
+    },
+    {
+     "sku": "P-555",
+     "qty": 5,
+     "unit_cost": 117.06
+    },
+    {
+     "sku": "P-564",
+     "qty": 3,
+     "unit_cost": 826.52
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5091",
+    "asset": {
+     "id": "AST-0008",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-05-07T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-188",
+     "qty": 2,
+     "unit_cost": 893.8
+    },
+    {
+     "sku": "P-849",
+     "qty": 6,
+     "unit_cost": 108.35
+    },
+    {
+     "sku": "P-462",
+     "qty": 1,
+     "unit_cost": 670.87
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5092",
+    "asset": {
+     "id": "AST-0015",
+     "facility": "WALLOPS"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-02-10T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5093",
+    "asset": {
+     "id": "AST-0022",
+     "facility": "WALLOPS"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-06-11T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-625",
+     "qty": 6,
+     "unit_cost": 700.23
+    },
+    {
+     "sku": "P-823",
+     "qty": 6,
+     "unit_cost": 286.07
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5094",
+    "asset": {
+     "id": "AST-0003",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-06-30T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-425",
+     "qty": 2,
+     "unit_cost": 757.92
+    },
+    {
+     "sku": "P-776",
+     "qty": 6,
+     "unit_cost": 35.93
+    },
+    {
+     "sku": "P-749",
+     "qty": 6,
+     "unit_cost": 11.14
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5095",
+    "asset": {
+     "id": "AST-0009",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-02-26T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-300",
+     "qty": 3,
+     "unit_cost": 425.22
+    },
+    {
+     "sku": "P-596",
+     "qty": 2,
+     "unit_cost": 661.27
+    },
+    {
+     "sku": "P-389",
+     "qty": 2,
+     "unit_cost": 181.92
+    },
+    {
+     "sku": "P-996",
+     "qty": 1,
+     "unit_cost": 855.95
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5096",
+    "asset": {
+     "id": "AST-0014",
+     "facility": "CAPE-A"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-01-18T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5097",
+    "asset": {
+     "id": "AST-0036",
+     "facility": "CAPE-A"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-02-15T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-528",
+     "qty": 6,
+     "unit_cost": 239.71
+    },
+    {
+     "sku": "P-489",
+     "qty": 6,
+     "unit_cost": 527.17
+    },
+    {
+     "sku": "P-753",
+     "qty": 3,
+     "unit_cost": 437.87
+    },
+    {
+     "sku": "P-772",
+     "qty": 2,
+     "unit_cost": 790.59
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5098",
+    "asset": {
+     "id": "AST-0015",
+     "facility": "WALLOPS"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-05-06T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-501",
+     "qty": 5,
+     "unit_cost": 323.99
+    },
+    {
+     "sku": "P-592",
+     "qty": 3,
+     "unit_cost": 90.49
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5099",
+    "asset": {
+     "id": "AST-0008",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-04-25T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-353",
+     "qty": 6,
+     "unit_cost": 384.68
+    },
+    {
+     "sku": "P-280",
+     "qty": 4,
+     "unit_cost": 860.86
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5100",
+    "asset": {
+     "id": "AST-0008",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-06-30T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-892",
+     "qty": 4,
+     "unit_cost": 756.75
+    },
+    {
+     "sku": "P-984",
+     "qty": 4,
+     "unit_cost": 542.55
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5101",
+    "asset": {
+     "id": "AST-0016",
+     "facility": "CAPE-B"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-03-10T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5102",
+    "asset": {
+     "id": "AST-0014",
+     "facility": "CAPE-A"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-05-24T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-367",
+     "qty": 6,
+     "unit_cost": 288.59
+    },
+    {
+     "sku": "P-500",
+     "qty": 4,
+     "unit_cost": 384.98
+    },
+    {
+     "sku": "P-366",
+     "qty": 1,
+     "unit_cost": 244.41
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5103",
+    "asset": {
+     "id": "AST-0015",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-03-20T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-519",
+     "qty": 2,
+     "unit_cost": 516.97
+    },
+    {
+     "sku": "P-270",
+     "qty": 5,
+     "unit_cost": 188.76
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5104",
+    "asset": {
+     "id": "AST-0008",
+     "facility": "VANDEN-1"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-02-03T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-652",
+     "qty": 1,
+     "unit_cost": 855.45
+    },
+    {
+     "sku": "P-121",
+     "qty": 4,
+     "unit_cost": 84.87
+    },
+    {
+     "sku": "P-821",
+     "qty": 3,
+     "unit_cost": 821.36
+    },
+    {
+     "sku": "P-885",
+     "qty": 5,
+     "unit_cost": 60.86
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5105",
+    "asset": {
+     "id": "AST-0004",
+     "facility": "CAPE-B"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-04-03T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-303",
+     "qty": 2,
+     "unit_cost": 754.98
+    },
+    {
+     "sku": "P-505",
+     "qty": 6,
+     "unit_cost": 209.48
+    },
+    {
+     "sku": "P-920",
+     "qty": 2,
+     "unit_cost": 819.95
+    },
+    {
+     "sku": "P-439",
+     "qty": 4,
+     "unit_cost": 197.19
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5106",
+    "asset": {
+     "id": "AST-0016",
+     "facility": "CAPE-B"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-01-06T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": []
+  },
+  {
+   "work_order": {
+    "id": "WO-5107",
+    "asset": {
+     "id": "AST-0007",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-05-05T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-260",
+     "qty": 3,
+     "unit_cost": 274.11
+    },
+    {
+     "sku": "P-335",
+     "qty": 6,
+     "unit_cost": 696.08
+    },
+    {
+     "sku": "P-353",
+     "qty": 1,
+     "unit_cost": 248.12
+    },
+    {
+     "sku": "P-226",
+     "qty": 4,
+     "unit_cost": 591.13
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5108",
+    "asset": {
+     "id": "AST-0009",
+     "facility": "VANDEN-1"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-01-20T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-616",
+     "qty": 6,
+     "unit_cost": 634.33
+    },
+    {
+     "sku": "P-850",
+     "qty": 4,
+     "unit_cost": 22.06
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5109",
+    "asset": {
+     "id": "AST-0035",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-01-25T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-702",
+     "qty": 4,
+     "unit_cost": 178.08
+    },
+    {
+     "sku": "P-720",
+     "qty": 3,
+     "unit_cost": 707.16
+    },
+    {
+     "sku": "P-535",
+     "qty": 5,
+     "unit_cost": 670.16
+    },
+    {
+     "sku": "P-409",
+     "qty": 3,
+     "unit_cost": 415.18
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5110",
+    "asset": {
+     "id": "AST-0007",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-04-07T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-539",
+     "qty": 1,
+     "unit_cost": 203.14
+    },
+    {
+     "sku": "P-516",
+     "qty": 5,
+     "unit_cost": 253.59
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5111",
+    "asset": {
+     "id": "AST-0019",
+     "facility": "VANDEN-1"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-04-08T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-608",
+     "qty": 6,
+     "unit_cost": 356.71
+    },
+    {
+     "sku": "P-481",
+     "qty": 5,
+     "unit_cost": 644.26
+    },
+    {
+     "sku": "P-563",
+     "qty": 2,
+     "unit_cost": 521.78
+    },
+    {
+     "sku": "P-125",
+     "qty": 4,
+     "unit_cost": 695.0
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5112",
+    "asset": {
+     "id": "AST-0029",
+     "facility": "JSC-LAB"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-05-25T00:00:00Z",
+    "assigned_to": {
+     "user": "jchen"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-758",
+     "qty": 3,
+     "unit_cost": 301.86
+    },
+    {
+     "sku": "P-929",
+     "qty": 6,
+     "unit_cost": 878.33
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5113",
+    "asset": {
+     "id": "AST-0007",
+     "facility": "VANDEN-1"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-02-23T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-707",
+     "qty": 2,
+     "unit_cost": 79.16
+    },
+    {
+     "sku": "P-512",
+     "qty": 5,
+     "unit_cost": 754.91
+    },
+    {
+     "sku": "P-635",
+     "qty": 6,
+     "unit_cost": 756.33
+    },
+    {
+     "sku": "P-878",
+     "qty": 2,
+     "unit_cost": 56.8
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5114",
+    "asset": {
+     "id": "AST-0032",
+     "facility": "VANDEN-1"
+    },
+    "priority": "CRITICAL",
+    "opened_at": "2025-03-21T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-445",
+     "qty": 2,
+     "unit_cost": 36.71
+    },
+    {
+     "sku": "P-805",
+     "qty": 5,
+     "unit_cost": 540.46
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5115",
+    "asset": {
+     "id": "AST-0001",
+     "facility": "CAPE-A"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-05-24T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-658",
+     "qty": 4,
+     "unit_cost": 284.46
+    },
+    {
+     "sku": "P-767",
+     "qty": 2,
+     "unit_cost": 292.37
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5116",
+    "asset": {
+     "id": "AST-0031",
+     "facility": "WALLOPS"
+    },
+    "priority": "LOW",
+    "opened_at": "2025-01-27T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-816",
+     "qty": 1,
+     "unit_cost": 340.61
+    },
+    {
+     "sku": "P-875",
+     "qty": 1,
+     "unit_cost": 149.24
+    },
+    {
+     "sku": "P-866",
+     "qty": 1,
+     "unit_cost": 152.91
+    },
+    {
+     "sku": "P-548",
+     "qty": 1,
+     "unit_cost": 39.0
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5117",
+    "asset": {
+     "id": "AST-0028",
+     "facility": "JSC-LAB"
+    },
+    "priority": "MEDIUM",
+    "opened_at": "2025-06-10T00:00:00Z",
+    "assigned_to": null
+   },
+   "parts": [
+    {
+     "sku": "P-598",
+     "qty": 2,
+     "unit_cost": 675.1
+    },
+    {
+     "sku": "P-660",
+     "qty": 4,
+     "unit_cost": 361.87
+    },
+    {
+     "sku": "P-403",
+     "qty": 1,
+     "unit_cost": 394.19
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5118",
+    "asset": {
+     "id": "AST-0019",
+     "facility": "VANDEN-1"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-06-07T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-677",
+     "qty": 6,
+     "unit_cost": 152.69
+    },
+    {
+     "sku": "P-397",
+     "qty": 5,
+     "unit_cost": 617.78
+    }
+   ]
+  },
+  {
+   "work_order": {
+    "id": "WO-5119",
+    "asset": {
+     "id": "AST-0040",
+     "facility": "JSC-LAB"
+    },
+    "priority": "HIGH",
+    "opened_at": "2025-05-01T00:00:00Z",
+    "assigned_to": {
+     "user": "tpatel"
+    }
+   },
+   "parts": [
+    {
+     "sku": "P-315",
+     "qty": 3,
+     "unit_cost": 834.66
+    },
+    {
+     "sku": "P-837",
+     "qty": 2,
+     "unit_cost": 151.16
+    }
+   ]
+  }
+ ]
+}
