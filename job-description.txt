@@ -1,0 +1,46 @@
+Senior Data Engineer
+
+About the Opportunity
+This role supports the DCSA NBIS (National Background Investigation Services) program, a large-scale federal modernization initiative focused on transforming how background investigations and security clearances are processed.
+The program is replacing legacy systems with a modern, cloud-based (AWS) platform that supports the full personnel security lifecycle—from investigation and adjudication to continuous vetting.
+
+What You’ll Be Doing
+Design, build, and optimize scalable AWS-based data pipelines
+Develop and maintain ETL/ELT workflows using AWS Glue, Python, and cloud-native services
+Build and support Data Lakes, Data Warehouses, and enterprise data platforms in AWS
+Integrate data from multiple systems using APIs and distributed data frameworks
+Collaborate with architects, developers, and stakeholders to implement scalable solutions
+Create and manage datasets for AI/ML and analytics (AWS Bedrock & SageMaker)
+Perform data cleansing, transformation, and quality validation
+Ensure compliance with CUI/PII data handling, audit trails, and security standards (e.g., Macie)
+Apply data governance, performance tuning, and schema design best practices
+Drive innovation through continuous improvements in cloud data architecture
+
+Required Qualifications (Must-Haves)
+Active Secret Clearance (Top Secret preferred)
+8+ years of Data Engineering experience
+Strong experience with AWS (Glue, Athena, S3)
+Expertise building Data Lakes and Data Warehouses
+Advanced Python and SQL skills
+Hands-on experience with ETL/ELT pipelines
+Experience with distributed data tools (Spark, Kafka, Kinesis, Hadoop, NoSQL)
+Strong understanding of cloud architecture and scalable data platforms
+Experience integrating data across systems using APIs
+Solid understanding of data quality, transformation, and optimization
+Knowledge of database performance tuning and distributed systems
+
+Preferred Qualifications (Nice-to-Haves)
+Experience with Terraform / Infrastructure as Code
+Familiarity with AWS Bedrock & SageMaker
+Experience with Lake Formation, Amazon Macie, Informatica
+Background in Federal, DoD, or Intelligence environments
+Experience with data governance and metadata management
+Exposure to AI-assisted development tools
+Clearance & Eligibility
+Active Secret Clearance required (TS preferred for many roles)
+
+Interview Process
+Initial convo 
+Feenyx/virtual technical assessment
+Screening with program leadership (Justin Neyman / team)
+Offer & quick start
